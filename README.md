@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Sultan sultan 
-- 👀 I’m interested in Web developer job
-- 🌱 I’m currently working as web developer
-- 💞️ I’m looking to in organization wich i contribute my skills while i learn new things from
-- 📫 intrested to contact me my phone is 702-835-3125
+I am a Full Stack Web developer with demonstrated 3+ experience working in front end and backend website development. A passionate about working with others and always love to learn new things. 
 
-<!---
-Sultan1992/Sultan1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ Skills
+ JavaScript/Jquery/, HTML ,CSS/SASS/ ,PHP, MySQL,  Bootstrap, React/Redux, Rest-API, GIT and GitHub, WordPress, Woo Commerce and Shopify.
 --->
